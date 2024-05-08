@@ -1,0 +1,9 @@
+/* organizar a div
+organiza o tamanho das coisas
+sticky
+
+caso repita id usa class
+*/
+#div1 {
+    display: flex;
+}
