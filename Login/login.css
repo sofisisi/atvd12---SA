@@ -4,9 +4,26 @@ sticky
 
 caso repita id usa class
 */
+
+body {
+    background-color: rgb(147, 147, 148) ;
+}
 #div1 {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 150px;
 }
 #logo {
-    width: 500px;
+    width: 220px;
+    height: 75px;
+}
+
+#div2  {
+    background-color: rgb(211, 231, 243) ;
+    height: 100px;
+}
+#div3 {
+    background-color: rgb(211, 231, 243) ;
 }
