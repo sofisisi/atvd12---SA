@@ -23,7 +23,51 @@ body{
 }
 
 #nomecompleto {
+    text-align: center;   
+}
+
+#botaoNome {
+    margin: 0px 110px 0px;
+}
+
+#genero {
     text-align: center;
+}
+
+#botaoGenero {
+    margin: 0px 110px 0px;
+}
+
+#idade {
+    text-align: center;
+}
+
+#botaoIdade {
+    margin: 0px 110px 0px;
+}
+
+#logradouro {
+    text-align: center;
+}
+
+#botaoLogradouro {
+    margin: 0px 110px 0px;
+}
+
+#email {
+    text-align: center;
+}
+
+#botaoEmail {
+    margin: 0px 110px 0px;
+}
+
+#senha {
+    text-align: center;
+}
+
+#botaoSenha {
+    margin: 0px 110px 0px;
 }
 
 #div3 {
