@@ -1,3 +1,7 @@
 #div1 {
     display: flex;
 }
+
+#logo {
+    width: 500px;
+}
