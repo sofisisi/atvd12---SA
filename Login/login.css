@@ -22,8 +22,33 @@ body {
 
 #div2  {
     background-color: rgb(211, 231, 243) ;
-    height: 100px;
+    
 }
 #div3 {
     background-color: rgb(211, 231, 243) ;
+    
+}
+#login {
+    text-align: center;
+
+}
+#botaoEmail {
+    margin: 0px 50px 0px;
+    width: 300px;
+}
+#botaoSenha {
+    margin: 0px 50px 0px;
+    width: 300px;
+}
+
+#textoEmail {
+    margin: 0px 50px 0px;
+}
+#textoSenha {
+    margin: 0px 50px 0px;
+}
+
+#botaoEntrar {
+    width: 100px;
+    margin: 10px 150px 10px; 
 }
