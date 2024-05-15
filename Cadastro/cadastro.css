@@ -19,61 +19,69 @@ body{
 }
 
 #cadastrese {
+    margin: 0px;
     text-align: center;
+    padding: 15px;
 }
 
 #nomecompleto {
-    text-align: center;   
+    margin: 20px 50px 20px;   
 }
 
 #botaoNome {
-    margin: 0px 110px 0px;
+    margin: 5px 50px 5px;
     border-color: white;
+    width: 300px;
 }
 
 #genero {
-    text-align: center;
+    margin: 20px 50px 20px;
 }
 
 #botaoGenero {
-    margin: 0px 110px 0px;
+    margin: 5px 50px 5px;
     border-color: white;
+    width: 300px;
 }
 
 #idade {
-    text-align: center;
+    margin: 20px 50px 20px;
 }
 
 #botaoIdade {
-    margin: 0px 110px 0px;
+    margin: 5px 50px 5px;
     border-color: white;
+    width: 300px;
 }
 
 #logradouro {
-    text-align: center;
+    margin: 20px 50px 20px;
 }
 
 #botaoLogradouro {
-    margin: 0px 110px 0px;
+    margin: 5px 50px 5px;
     border-color: white;
+    width: 300px;
 }
 
 #email {
-    text-align: center;
+    margin: 20px 50px 20px;
 }
 
 #botaoEmail {
-    margin: 0px 110px 0px;
+    margin: 5px 50px 5px;
     border-color: white;
+    width: 300px;
 }
 
 #senha {
-    text-align: center;
+    margin: 20px 50px 20px;
 }
 
 #botaoSenha {
-    margin: 0px 110px 0px;
+    margin: 5px 50px 5px;
     border-color: white;
+    width: 300px;
 }
 
 #div3 {
