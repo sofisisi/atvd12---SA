@@ -1,7 +1,31 @@
+body{
+    background-color:rgb(147, 147, 148)
+}
+
 #div1 {
     display: flex;
+    background-color:rgb(211, 231, 243);
+    justify-content: center;
+    align-items: center;
 }
 
 #logo {
-    width: 500px;
+    width: 160px;
+    height: 40px;
+}
+
+#div2 {
+    background-color: rgb(211, 231, 243);
+}
+
+#cadastrese {
+    text-align: center;
+}
+
+#nomecompleto {
+    text-align: center;
+}
+
+#div3 {
+    background-color: rgb(211, 231, 243);
 }
