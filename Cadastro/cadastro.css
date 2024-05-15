@@ -1,0 +1,75 @@
+body{
+    background-color:rgb(147, 147, 148)
+}
+
+#div1 {
+    display: flex;
+    background-color:rgb(211, 231, 243);
+    justify-content: center;
+    align-items: center;
+}
+
+#logo {
+    width: 160px;
+    height: 40px;
+}
+
+#div2 {
+    background-color: rgb(211, 231, 243);
+}
+
+#cadastrese {
+    text-align: center;
+}
+
+#nomecompleto {
+    text-align: center;   
+}
+
+#botaoNome {
+    margin: 0px 110px 0px;
+}
+
+#genero {
+    text-align: center;
+}
+
+#botaoGenero {
+    margin: 0px 110px 0px;
+}
+
+#idade {
+    text-align: center;
+}
+
+#botaoIdade {
+    margin: 0px 110px 0px;
+}
+
+#logradouro {
+    text-align: center;
+}
+
+#botaoLogradouro {
+    margin: 0px 110px 0px;
+}
+
+#email {
+    text-align: center;
+}
+
+#botaoEmail {
+    margin: 0px 110px 0px;
+}
+
+#senha {
+    text-align: center;
+}
+
+#botaoSenha {
+    margin: 0px 110px 0px;
+}
+
+#div3 {
+    background-color: rgb(211, 231, 243);
+}
