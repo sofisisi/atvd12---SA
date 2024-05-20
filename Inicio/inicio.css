@@ -6,3 +6,57 @@ body {
     width: 200px
 }
 
+#ensino1 {
+    color:black;
+    background-color: rgb(243, 225, 124);
+    border-radius: 7px;
+    width: 250px;
+    font-size: 40px;
+    border-radius: 90px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ensino2 {
+    color:black;
+    background-color: rgb(243, 225, 124);
+    border-radius: 7px;
+    width: 250px;
+    font-size: 40px;
+    border-radius: 90px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ensino3 {
+    color:black;
+    background-color: rgb(243, 225, 124);
+    border-radius: 7px;
+    width: 250px;
+    font-size: 40px;
+    border-radius: 90px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#eptran {
+    color:black;
+    background-color: rgb(243, 225, 124);
+    border-radius: 7px;
+    width: 250px;
+    font-size: 40px;
+    border-radius: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inicio {
+    width: 420px;
+    height: 230px;
+}
