@@ -1,56 +1,20 @@
-body {
+#body {
     background-color: rgb(211, 231, 243);
 }
 
 #logo {
-    width: 200px
+    width: 200px;
+
 }
 
-#ensino1 {
+.eptran {
     color:black;
-    background-color: rgb(243, 225, 124);
+    background-color:   rgb(248, 165, 56);
     border-radius: 7px;
     width: 250px;
-    font-size: 40px;
+    font-size: 26px;
     border-radius: 90px;
-    margin: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-#ensino2 {
-    color:black;
-    background-color: rgb(243, 225, 124);
-    border-radius: 7px;
-    width: 250px;
-    font-size: 40px;
-    border-radius: 90px;
-    margin: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-#ensino3 {
-    color:black;
-    background-color: rgb(243, 225, 124);
-    border-radius: 7px;
-    width: 250px;
-    font-size: 40px;
-    border-radius: 90px;
-    margin: 10px;
-    display: flex;
-    justify-content: center;
-}
-
-#eptran {
-    color:black;
-    background-color: rgb(243, 225, 124);
-    border-radius: 7px;
-    width: 250px;
-    font-size: 40px;
-    border-radius: 90px;
+    margin: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -59,4 +23,17 @@ body {
 #inicio {
     width: 420px;
     height: 230px;
+}
+
+#riscos {
+    width: 50px;
+    margin: 10px 150px;
+}
+
+#junção {
+    display: flex;
+}
+
+#div4 {
+    width: 50px;
 }
