@@ -1,5 +1,5 @@
 #body {
-    background-color: rgb(211, 231, 243);
+    background-color: rgb(211, 229, 240);
 }
 
 #logo {
@@ -34,6 +34,7 @@
     display: flex;
 }
 
-#div4 {
-    width: 50px;
+#cone {
+    width: 250px;
 }
+
