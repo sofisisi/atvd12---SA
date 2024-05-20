@@ -13,6 +13,10 @@ body {
     width: 250px;
     font-size: 40px;
     border-radius: 90px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #ensino2 {
@@ -22,6 +26,10 @@ body {
     width: 250px;
     font-size: 40px;
     border-radius: 90px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #ensino3 {
@@ -31,6 +39,9 @@ body {
     width: 250px;
     font-size: 40px;
     border-radius: 90px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
 }
 
 #eptran {
@@ -40,4 +51,12 @@ body {
     width: 250px;
     font-size: 40px;
     border-radius: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inicio {
+    width: 420px;
+    height: 230px;
 }
