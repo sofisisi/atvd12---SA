@@ -12,8 +12,8 @@ body{
 }
 
 #logo {
-    width: 160px;
-    height: 40px;
+    width: 170px;
+    height: 50px;
 }
 
 #div2 {
@@ -29,63 +29,69 @@ body{
 }
 
 #nomecompleto {
-    margin: 10px 50px 10px;   
+    margin: 10px 50px 0px;   
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 #botaoNome {
     margin: 5px 50px 5px;
     width: 300px;
+    height: 20px;
 }
 
 #genero {
-    margin: 10px 50px 10px;
+    margin: 10px 50px 0px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 #botaoGenero {
     margin: 5px 50px 5px;
     width: 300px;
+    height: 20px;
 }
 
 #idade {
-    margin: 10px 50px 10px;
+    margin: 10px 50px 0px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 #botaoIdade {
     margin: 5px 50px 5px;
     width: 300px;
+    height: 20px;
 }
 
 #logradouro {
-    margin: 10px 50px 10px;
+    margin: 10px 50px 0px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 #botaoLogradouro {
     margin: 5px 50px 5px;
     width: 300px;
+    height: 20px;
 }
 
 #email {
-    margin: 10px 50px 10px;
+    margin: 10px 50px 0px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 #botaoEmail {
     margin: 5px 50px 5px;
     width: 300px;
+    height: 20px;
 }
 
 #senha {
-    margin: 10px 50px 10px;
+    margin: 10px 50px 0px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 #botaoSenha {
     margin: 5px 50px 5px;
     width: 300px;
+    height: 20px;
 }
 
 #div3 {
