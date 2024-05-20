@@ -7,6 +7,8 @@ body{
     background-color:rgb(211, 231, 243);
     justify-content: center;
     align-items: center;
+    margin: 120px 0px 0px;
+    height: 100px;
 }
 
 #logo {
@@ -25,62 +27,56 @@ body{
 }
 
 #nomecompleto {
-    margin: 20px 50px 20px;   
+    margin: 10px 50px 10px;   
 }
 
 #botaoNome {
     margin: 5px 50px 5px;
-    border-color: white;
     width: 300px;
 }
 
 #genero {
-    margin: 20px 50px 20px;
+    margin: 10px 50px 10px;
 }
 
 #botaoGenero {
     margin: 5px 50px 5px;
-    border-color: white;
     width: 300px;
 }
 
 #idade {
-    margin: 20px 50px 20px;
+    margin: 10px 50px 10px;
 }
 
 #botaoIdade {
     margin: 5px 50px 5px;
-    border-color: white;
     width: 300px;
 }
 
 #logradouro {
-    margin: 20px 50px 20px;
+    margin: 10px 50px 10px;
 }
 
 #botaoLogradouro {
     margin: 5px 50px 5px;
-    border-color: white;
     width: 300px;
 }
 
 #email {
-    margin: 20px 50px 20px;
+    margin: 10px 50px 10px;
 }
 
 #botaoEmail {
     margin: 5px 50px 5px;
-    border-color: white;
     width: 300px;
 }
 
 #senha {
-    margin: 20px 50px 20px;
+    margin: 10px 50px 10px;
 }
 
 #botaoSenha {
     margin: 5px 50px 5px;
-    border-color: white;
     width: 300px;
 }
 
