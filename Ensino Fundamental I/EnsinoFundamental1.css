@@ -7,7 +7,7 @@ body{
     height: 120px;
 }
 
-#video{
+#video1{
     color:black;
     background-color: rgb(106, 170, 106);
     border-radius: 7px;
@@ -27,4 +27,11 @@ body{
 }
 h3{
     font-size:70px;
+    text-align: center;
+}
+
+
+#riscos{
+    width: 50px;
+    height: 10px 150px;
 }
