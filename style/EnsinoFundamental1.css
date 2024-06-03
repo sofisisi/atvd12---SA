@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(211, 231, 243);
+    background-color:#f2b807;
 }
 
 #logo{
@@ -25,7 +25,8 @@ body{
     font-size: 40px;
     border-radius: 90px;
 }
-h3{
+
+#h3{
     font-size:70px;
     text-align: center;
 }
