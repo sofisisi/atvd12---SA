@@ -8,7 +8,7 @@ caso repita id usa class
 body {
     background-color: rgb(147, 147, 148) ;
 }
-#div1 {
+#divImagemLogo {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,20 +16,21 @@ body {
     height: 150px;
     margin: 200px 0px 0px;
 }
-#div2  {
-    background-color: #f2f2f2 ;
+#divInformarDados {
+    background-color: #023859 ;
     
 }
-#div3 {
-    background-color: #f2f2f2 ;
+#divBotaoEntrar {
+    background-color: #023859 ;
     
 }
-#login {
+#textoLogin {
     margin: 0px;
     padding: 15px 0px 30px; 
     text-align: center;
     font-family: Impact, fantasy;
     font-weight: 100; 
+    color: #f2f2f2;
 
 }
 #botaoEmail {
@@ -45,11 +46,13 @@ body {
     margin: 0px 50px 0px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
+    color: #f2f2f2;
 }
 #textoSenha {
     margin: 20px 50px 0px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
+    color: #f2f2f2;
 }
 
 #botaoEntrar {
@@ -60,7 +63,7 @@ body {
     border-color: #f2b807; 
 }
 
-#logo {
+#imagemLogo {
     width: 350px;
     height: 200px;
 }
