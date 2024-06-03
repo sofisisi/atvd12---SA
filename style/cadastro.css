@@ -1,10 +1,10 @@
 body{
-    background-color:rgb(147, 147, 148)
+    background-color: #f2f2f2
 }
 
 #brasãoPrefeitura {
     display: flex;
-    background-color:rgb(211, 231, 243);
+    background-color: #023859;
     justify-content: center;
     align-items: center;
     margin: 120px 0px 0px;
@@ -12,12 +12,12 @@ body{
 }
 
 #logo {
-    width: 170px;
-    height: 50px;
+    width: 350px;
+    height: 225px;
 }
 
 #botões {
-    background-color: rgb(211, 231, 243);
+    background-color: #023859;
 }
 
 #cadastrese {
@@ -26,11 +26,13 @@ body{
     padding: 15px;
     font-family: Impact, fantasy;
     font-weight: 100;
+    color: white;
 }
 
-#nomecompleto {
-    margin: 10px 50px 0px;   
+#nomeCompleto {
+    margin: 10px 50px 0px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    color: white;
 }
 
 #botaoNome {
@@ -42,6 +44,7 @@ body{
 #genero {
     margin: 10px 50px 0px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    color: white;
 }
 
 #botaoGenero {
@@ -53,6 +56,7 @@ body{
 #idade {
     margin: 10px 50px 0px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    color: white;
 }
 
 #botaoIdade {
@@ -64,6 +68,7 @@ body{
 #logradouro {
     margin: 10px 50px 0px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    color: white;
 }
 
 #botaoLogradouro {
@@ -75,6 +80,7 @@ body{
 #email {
     margin: 10px 50px 0px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    color: white;
 }
 
 #botaoEmail {
@@ -86,6 +92,7 @@ body{
 #senha {
     margin: 10px 50px 0px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    color: white;
 }
 
 #botaoSenha {
@@ -95,12 +102,12 @@ body{
 }
 
 #entrar {
-    background-color: rgb(211, 231, 243);
+    background-color: #023859;
 }
 
 #botaoEntrar {
     width: 150px;
     margin: 30px 125px 30px;
-    background-color: rgb(102, 168, 85);
-    border-color: rgb(102, 168, 85);
+    background-color: #F2B807;
+    border-color: #F2B807;
 }
