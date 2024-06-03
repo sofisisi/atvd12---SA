@@ -2,7 +2,7 @@ body{
     background-color:rgb(147, 147, 148)
 }
 
-#div1 {
+#brasãoPrefeitura {
     display: flex;
     background-color:rgb(211, 231, 243);
     justify-content: center;
@@ -16,7 +16,7 @@ body{
     height: 50px;
 }
 
-#div2 {
+#botões {
     background-color: rgb(211, 231, 243);
 }
 
@@ -94,7 +94,7 @@ body{
     height: 20px;
 }
 
-#div3 {
+#entrar {
     background-color: rgb(211, 231, 243);
 }
 
