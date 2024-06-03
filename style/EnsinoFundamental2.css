@@ -1,0 +1,21 @@
+body{
+    background-color: #023859;
+}
+
+#junção{
+    display: flex;
+}
+
+#logo{
+    width:460px;
+    height:180px;
+}
+
+#logoPrefeitura{
+    padding: 3px;
+}
+
+#riscos{
+    width: 50px;
+    height: 40px;
+}
