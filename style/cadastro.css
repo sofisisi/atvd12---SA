@@ -2,19 +2,21 @@ body{
     background-color:rgb(147, 147, 148)
 }
 
-#div1 {
+#brasãoPrefeitura {
     display: flex;
     background-color:rgb(211, 231, 243);
     justify-content: center;
     align-items: center;
+    margin: 120px 0px 0px;
+    height: 100px;
 }
 
 #logo {
-    width: 160px;
-    height: 40px;
+    width: 170px;
+    height: 50px;
 }
 
-#div2 {
+#botões {
     background-color: rgb(211, 231, 243);
 }
 
@@ -22,69 +24,77 @@ body{
     margin: 0px;
     text-align: center;
     padding: 15px;
+    font-family: Impact, fantasy;
+    font-weight: 100;
 }
 
 #nomecompleto {
-    margin: 20px 50px 20px;   
+    margin: 10px 50px 0px;   
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 #botaoNome {
     margin: 5px 50px 5px;
-    border-color: white;
     width: 300px;
+    height: 20px;
 }
 
 #genero {
-    margin: 20px 50px 20px;
+    margin: 10px 50px 0px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 #botaoGenero {
     margin: 5px 50px 5px;
-    border-color: white;
     width: 300px;
+    height: 20px;
 }
 
 #idade {
-    margin: 20px 50px 20px;
+    margin: 10px 50px 0px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 #botaoIdade {
     margin: 5px 50px 5px;
-    border-color: white;
     width: 300px;
+    height: 20px;
 }
 
 #logradouro {
-    margin: 20px 50px 20px;
+    margin: 10px 50px 0px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 #botaoLogradouro {
     margin: 5px 50px 5px;
-    border-color: white;
     width: 300px;
+    height: 20px;
 }
 
 #email {
-    margin: 20px 50px 20px;
+    margin: 10px 50px 0px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 #botaoEmail {
     margin: 5px 50px 5px;
-    border-color: white;
     width: 300px;
+    height: 20px;
 }
 
 #senha {
-    margin: 20px 50px 20px;
+    margin: 10px 50px 0px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 #botaoSenha {
     margin: 5px 50px 5px;
-    border-color: white;
     width: 300px;
+    height: 20px;
 }
 
-#div3 {
+#entrar {
     background-color: rgb(211, 231, 243);
 }
 

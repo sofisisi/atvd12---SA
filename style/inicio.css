@@ -1,0 +1,44 @@
+#body {
+    background-color: rgb(211, 229, 240);
+}
+
+#logo {
+    width: 200px;
+}
+
+.eptran {
+    color:black;
+    background-color:   rgb(248, 165, 56);
+    border-radius: 7px;
+    width: 250px;
+    font-size: 26px;
+    border-radius: 90px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inicio {
+    width: 420px;
+    height: 230px;
+}
+
+#riscos {
+    width: 50px;
+    margin: 10px 150px;
+}
+
+#junção {
+    display: flex;
+}
+
+#cone {
+    width: 250px;
+}
+
+#semafaro {
+    width: 250px;
+}
+
+
