@@ -7,7 +7,7 @@ body{
     height: 120px;
 }
 
-#video1{
+#video{
     color:black;
     background-color: rgb(106, 170, 106);
     border-radius: 7px;
@@ -17,7 +17,7 @@ body{
 
 }
 
-#ler1{
+#ler{
     color: black;
     background-color:  rgb(106, 170, 106);
     border-radius: 7px;
@@ -27,7 +27,7 @@ body{
 }
 
 #h3{
-    font-size:70px;
+    font-size:200px;
     text-align: center;
 }
 
