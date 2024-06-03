@@ -17,11 +17,11 @@ body {
     margin: 200px 0px 0px;
 }
 #div2  {
-    background-color: #f2f2f2 ;
+    background-color: #023859 ;
     
 }
 #div3 {
-    background-color: #f2f2f2 ;
+    background-color: #023859 ;
     
 }
 #login {
@@ -30,6 +30,7 @@ body {
     text-align: center;
     font-family: Impact, fantasy;
     font-weight: 100; 
+    color: #f2f2f2;
 
 }
 #botaoEmail {
@@ -45,11 +46,13 @@ body {
     margin: 0px 50px 0px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
+    color: #f2f2f2;
 }
 #textoSenha {
     margin: 20px 50px 0px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
+    color: #f2f2f2;
 }
 
 #botaoEntrar {
