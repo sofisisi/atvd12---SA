@@ -12,15 +12,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: white;
+    background-color: #023859;
     height: 150px;
     margin: 200px 0px 0px;
 }
-#logo {
-    width: 220px;
-    height: 75px;
-}
-
 #div2  {
     background-color: rgb(211, 231, 243) ;
     
@@ -63,4 +58,9 @@ body {
     margin: 30px 150px 10px; 
     background-color: rgb(102, 168, 85);
     border-color: rgb(102, 168, 85); 
+}
+
+#logo {
+    width: 350px;
+    height: 200px;
 }
