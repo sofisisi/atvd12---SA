@@ -3,7 +3,7 @@ body{
 }
 
 #logo{
-    width: 340px;
+    width: 440px;
     height: 120px;
 }
 
@@ -17,7 +17,7 @@ body{
 
 }
 
-#ler{
+#ler1{
     color: black;
     background-color:  rgb(106, 170, 106);
     border-radius: 7px;
