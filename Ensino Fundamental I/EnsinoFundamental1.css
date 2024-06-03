@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(211, 231, 243);
+}
+
+#logo{
+    width: 340px;
+    height: 120px;
+}
+
+#video{
+    color:black;
+    background-color: rgb(106, 170, 106);
+    border-radius: 7px;
+    width: 250px;
+    font-size: 40px;
+    border-radius: 90px;
+
+}
+
+#ler{
+    color: black;
+    background-color:  rgb(106, 170, 106);
+    border-radius: 7px;
+    width: 250px;
+    font-size: 40px;
+    border-radius: 90px;
+}
+h3{
+    font-size:70px;
+}
