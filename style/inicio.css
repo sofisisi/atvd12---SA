@@ -1,5 +1,5 @@
 #body {
-    background-color: rgb(211, 229, 240);
+    background-color:#023859;
 }
 
 #logo {
@@ -31,10 +31,6 @@
 
 #junção {
     display: flex;
-}
-
-#cone {
-    width: 250px;
 }
 
 #semafaro {
