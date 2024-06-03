@@ -4,7 +4,6 @@
 
 #logo {
     width: 200px;
-    background-color: #023859;
 }
 
 .eptran {
@@ -32,10 +31,6 @@
 
 #junção {
     display: flex;
-}
-
-#cone {
-    width: 250px;
 }
 
 #semafaro {
