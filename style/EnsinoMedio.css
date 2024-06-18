@@ -1,3 +1,35 @@
 body {
     background-color: #023859;
 }
+#logo {
+    width: 250px;
+    margin: 0px 10px ;
+}
+#respansivo {
+    width: 30px;
+    margin: 30px 10px 60px 50px;
+}
+#capaEnsinoMedio {
+    width: 400px;
+    object-position: 0.5px;
+    
+}
+#textoQuiz {
+    text-align: center;
+    color: #f4f4f4;
+    padding-top: 50px;
+    font-size: 50px;
+    font-family: Impact, fantasy; 
+}
+#botaoComecar {
+    margin: 2px 120px 0px;
+    width: 150px;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #f2b807;
+    border-color: #f2b807;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+
+}
