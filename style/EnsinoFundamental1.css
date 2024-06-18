@@ -3,23 +3,15 @@ body{
 }
 
 #logo{
-    width: 440px;
-    height: 120px;
+    width: 460px;
+    height: 260px;
 }
-
+#divcabecalho {
+    display: flex;
+}
 #video{
     color:black;
-    background-color: rgb(106, 170, 106);
-    border-radius: 7px;
-    width: 250px;
-    font-size: 40px;
-    border-radius: 90px;
-
-}
-
-#ler{
-    color: black;
-    background-color:  rgb(106, 170, 106);
+    background-color:#F21D2F;
     border-radius: 7px;
     width: 250px;
     font-size: 40px;
@@ -34,5 +26,14 @@ body{
 
 #riscos{
     width: 50px;
-    height: 10px 150px;
+    margin: 10px 10px;
+}
+
+h3{
+    font-size: 50px;
+}
+
+#tintaVermelha{
+    align-items: center;
+    display: flex;
 }
